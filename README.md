@@ -1,11 +1,5 @@
 # Multimodal Clinical RAG Backend
 
-![FastAPI](https://shields.io)
-![LangGraph](https://shields.io)
-![PyTorch](https://shields.io)
-![Pinecone](https://shields.io)
-![Supabase](https://shields.io)
-
 An enterprise-grade, AI-powered dermatology consultation engine built with **FastAPI**, **LangGraph**, **PyTorch (EfficientNet-B0)**, **Pinecone**, and **Supabase (PostgreSQL + Storage)**. It analyzes patient skin imagery alongside clinical queries, retrieves evidence-based dermatological knowledge, and streams grounded responses in real time.
 
 ---
